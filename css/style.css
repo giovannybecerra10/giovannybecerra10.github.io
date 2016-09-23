@@ -14,34 +14,26 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo.jpg);
+background-image: url(../img/fondo2.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
 
 h1{
 font-family: 'Shadows Into Light', cursive;
-color: white;
+color: black;
 margin-left: 10px;
-font-size: 60px;
+font-size: 50px;
 text-align: center; 
 }
 
 h2{
 font-family: 'Indie Flower', cursive;
-color: white;
+color: black;
 margin-left: 10px;
-font-size: 20px;
+font-size: 30px;
 text-align: left; 
 }
-
-h3{
-font-family: 'Shadows Into Light', cursive;;
-color: white;
-font-size: 30px;
-text-align: center; 
-}
-
 
 header{
 	width: 1000px;
@@ -52,13 +44,13 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: gray;
 border-radius: 10px;
-
 }
+
 ul{
 margin: auto;
-padding-top: 4px;
+padding-top: 6px;
 }
 
 li{
@@ -69,49 +61,7 @@ li{
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
-
 }
-
-section{
-	width: 700px;
-	background: gray;
-	height: 600px;
-	float: left;
-	margin-top: 20px;
-	border-radius: 10px;
-}
-aside{
-
-	width: 280px;
-	background: white;
-	height: 600px;
-	float: left;
-	margin-left: 20px;
-	margin-top: 20px;
-	border-radius: 10px;
-}
-
-footer{
-width: 1000px;
-height: 70px;
-background: maroon;
-float: left;
-margin-top: 20px;
-border-radius: 10px;
-margin-bottom: 20px;
-}
-
-p{
-
-	font-size: 15px;
-	font-weight: bolder;
-	line-height: 24px;
-	padding: 10px;
-	text-align: justify;
-}
-
-
-
 
 /*CLASES*/
 
